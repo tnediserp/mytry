@@ -10,3 +10,4 @@ qhjdjqjdjqjdnjncnncnnnnqjd
 issue 1 is fixed
 djedjjwjieiedjedjnnndwdowei
 This is the dev branch
+Thomas adds one line in this file
